@@ -193,7 +193,7 @@ with open((dirname + '/octodt.csv'), 'w', newline='') as csvfile:
             # background color
             bg = (238, 238, 238)
             # outline color
-            ol = (0, 0, 0)
+            ol = (0, 0, 0)             
 
             basic_bird = [
                 [bg, bg, bg, bg, bg, bg, bg, bg, bg, bg, bg, bg, bg, bg, bg, bg, bg, bg, bg, bg, bg, bg, bg, bg],
